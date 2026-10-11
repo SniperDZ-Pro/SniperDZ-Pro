@@ -10,7 +10,7 @@
     <a href="https://app.letsdefend.io/user/sniperdz-pro"><img src="https://img.shields.io/badge/LetsDefend-003366?style=for-the-badge&logo=azure&logoColor=white" alt="LetsDefend" /></a>
   </p>
 
- <img src="https://komarev.com/ghpvc/?username=SniperDZ-Pro&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SniperDZ-Pro&color=00ffcc&style=flat-square&label=PROFILE%20VIEWS&v=1" alt="Profile Views" />
 
 </div>
 
