@@ -10,7 +10,7 @@
     <a href="https://tryhackme.com/p/YOUR-USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=SniperDZ-Pro&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=SniperDZ-Pro&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
