@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/brahim-ferik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:ferik.brahim@univ-ouargla.dz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://tryhackme.com/p/YOUR-USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+    <a href="https://app.letsdefend.io/user/sniperdz-pro"><img src="https://img.shields.io/badge/LetsDefend-003366?style=for-the-badge&logo=azure&logoColor=white" alt="LetsDefend" /></a>
   </p>
 
  <img src="https://komarev.com/ghpvc/?username=SniperDZ-Pro&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
